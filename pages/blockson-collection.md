@@ -2,14 +2,14 @@
 title: Charles L. Blockson Afro-American Collection
 permalink: /blockson-collection/
 layout: page
-keywords: 'Blockson Collection, Charles L. Blockson Afro-American Collection, African American Studies, Temple University library'
 description: >-
   The Blockson Collection at Temple University is one of the most prestigious collections relating to African American history in the United States.
+keywords: >-
+  Blockson Collection, Charles L. Blockson Afro-American Collection, African American Studies, Temple University library
 published: true
 ---
 
 ### Special Collections - African American Studies at Temple University
-
 > “My main goal in life is to build a good library of Black history - knowledge is a form of Black power and this is my part in it” - Charles L. Blockson
 
 ![Charles Blockson is a historian, curator and author specializing in the Underground Railroad.]({{site.baseurl}}/media/charles-blockson.jpg){:.img-right}
