@@ -9,7 +9,7 @@ layout: page
 published: true
 ---
 ## Study Abroad in Ghana
-If you join our department, taking advantage of our [study abroad in Ghana program](https://studyabroad.temple.edu/scholarships/aaas-scholarship-for-temple-summer-in-ghana) is an incredible way to enhance your Temple education. Investigate the historical, literary, cultural and linguistic aspects of West African civilization at the University of Ghana in Accra. Experience the warm culture and booming music scene of the nation's capital while adding depth to your Africology and African American Studies research.
+If you join our department, taking advantage of our [study abroad in Ghana program](https://studyabroad.temple.edu/) is an incredible way to enhance your Temple education. Investigate the historical, literary, cultural and linguistic aspects of West African civilization at the University of Ghana in Accra. Experience the warm culture and booming music scene of the nation's capital while adding depth to your Africology and African American Studies research.
 
 ## Journal of Black Studies
 Our department is the home to the _Journal of Black Studies_, the most prestigious publication in the discipline of African American Studies. A leading source for innovative and creative research on the black experience, the journal is published six times per year. Africology and African American Studies Students can work with the journal under the guidance of our distinguished faculty.
