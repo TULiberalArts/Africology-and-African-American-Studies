@@ -75,13 +75,10 @@ Possible concentrations include
 - Gender, Sexuality and Women's Studies
 
 ## Temple Graduate School Funding
-At Temple, we believe that students from all walks of life should have access to a college education. If you need help paying for graduate school, you aren’t alone. Most students receive some form of financial aid to fund their education. Graduate students are eligible for financial assistance from federal, state, private, and university sources. We encourage you to explore all of the opportunities available and apply early to make your education an affordable experience.
-
-- [Learn More About Paying for Graduate School at Temple](http://www.temple.edu/grad/finances/)
-- [Explore Department of Africology and African American Studies Scholarships](https://develop.cla.temple.edu/africology-and-african-american-studies/resources/)
+Temple has several financial aid packages available to eligible candidates, including University Fellowships, Future Faculty Fellowships and Teaching Assistantships. These funding packages are awarded on a competitive basis. University and Future Faculty Fellows do not have to teach in their first year; however, they must serve as teaching assistants in their second year (and their stipends are reduced accordingly). The department program determines nomination for fellowships. Nominations are then decided by the Graduate School, which usually looks at traditional markers of academic excellence, (i.e., GPA, GRE scores). Funding is very limited and so MA students are normally not eligible for funding. In rare cases, MA students are selected by the Graduate Director for TAships and fellowships. If you do receive funding from Temple, you can borrow from the regular financial aid programs. Explore all available funding and apply early to make your education an affordable experience. For more information about funding, review our admissions procedures. 
 
 ## Admissions Process
-Admission requirements to the MA and PhD programs in Africology and African American Studies follow the general requirements established by Temple University. The deadline for the MA and PhD program is the same.
+Admission requirements to the MA and PhD programs in Africology and African American Studies follow the general requirements established by Temple University. The deadline for the MA and PhD program is the same. Review our complete admissions procedures on [liberalarts.temple.edu](https://liberalarts.temple.edu).
 
 **Application Deadline:** Fall Semester: Jan. 15
 
