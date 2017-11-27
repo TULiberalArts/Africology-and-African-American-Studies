@@ -78,12 +78,12 @@ Possible concentrations include
 Temple has several financial aid packages available to eligible candidates, including University Fellowships, Future Faculty Fellowships and Teaching Assistantships. These funding packages are awarded on a competitive basis. University and Future Faculty Fellows do not have to teach in their first year; however, they must serve as teaching assistants in their second year (and their stipends are reduced accordingly). The department program determines nomination for fellowships. Nominations are then decided by the Graduate School, which usually looks at traditional markers of academic excellence, (i.e., GPA, GRE scores). Funding is very limited and so MA students are normally not eligible for funding. In rare cases, MA students are selected by the Graduate Director for TAships and fellowships. If you do receive funding from Temple, you can borrow from the regular financial aid programs. Explore all available funding and apply early to make your education an affordable experience. For more information about funding, review our admissions procedures. 
 
 ## Admissions Process
-Admission requirements to the MA and PhD programs in Africology and African American Studies follow the general requirements established by Temple University. The deadline for the MA and PhD program is the same. Review our complete admissions procedures on [liberalarts.temple.edu](https://liberalarts.temple.edu).
-
-**Application Deadline:** Fall Semester: Jan. 15
+Admission requirements to the MA and PhD programs in Africology and African American Studies follow the general requirements established by Temple University. The deadline for the MA and PhD program is the same. Review our [complete admissions procedures on the bulletin](http://bulletin.temple.edu/graduate/scd/cla/africology-african-american-studies-phd/#admissiontext). 
 
 ## Graduate Admissions to Temple University
 Are you ready to apply? [Submit Your Application Online](http://www.temple.edu/grad/admissions/howtoapply.htm)
+
+**Application Deadline:** Fall Semester: Jan. 15
 
 ### Curriculum and Academic Requirements
 - [MA in Africology and African American Studies](http://bulletin.temple.edu/graduate/scd/cla/africology-african-american-studies-ma/)
