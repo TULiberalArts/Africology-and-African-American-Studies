@@ -56,6 +56,9 @@ university:
 college:
   name: College of Liberal Arts
   url: https://liberalarts.temple.edu/
+  program-news: https://liberalarts.temple.edu/news/africology-and-african-american-studies
+  program-events: https://events.temple.edu/department/africology-and-african-american-studies
+    
 
 # Google Tag Manager OR Google Analytics
 google_analytics:
