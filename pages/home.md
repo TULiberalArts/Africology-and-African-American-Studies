@@ -8,7 +8,7 @@ description: >-
 keywords: >-
   African American Studies, Black Studies, Temple University, Journal of Black
   Studies
-layout: home
+layout: home3
 published: true
 feature: true
 feature-title: Encouraged to Excel
