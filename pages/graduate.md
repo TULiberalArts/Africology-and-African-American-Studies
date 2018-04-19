@@ -49,7 +49,7 @@ Please visit the [Africology and African American Studies Graduate Admissions](h
 ## Get Involved in the Black Studies Academic Community
 Our faculty edits the top journal in our discipline, the _Journal of Black Studies_. We also participate in all the significant associations in our discipline, including the National Council for Black Studies and Afrocentricity International. We encourage our students to collaborate with faculty in research, conferences, field trips and joint writing projects. If you join our program, you'll have the opportunity to contribute to the _Journal of Black Studies_ and participate in African American Studies conferences with us.
 
-[Learn More About Our Academic Resources](https://develop.cla.temple.edu/africology-and-african-american-studies/resources/)
+[Learn More About Our Academic Resources](https://cla.temple.edu/africology-and-african-american-studies/resources/)
 
 ## PhD in African American Studies
 Temple was the first university to offer a PhD program in African American Studies. Our program reflects a deep commitment to the Afrocentric, or self-directed, exploration of academic experiences. It is the goal of the department that graduates of our PhD program are prepared to engage in a diverse range of intellectual issues that affect the lives of Africans on the continent and in the diaspora. Our students are prepared for university teaching and scholarly research; our graduates have excellent employment track records in major universities nationwide.
