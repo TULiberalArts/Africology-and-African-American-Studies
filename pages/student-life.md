@@ -1,6 +1,6 @@
 ---
-title: Resources
-permalink: /resources/
+title: Student Life
+permalink: /student-life/
 description: >-
   Get help with financial aid, study abroad and academic resources at Temple University's Department of African American Studies.
 keywords: >-
