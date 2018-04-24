@@ -41,6 +41,8 @@ sidebar-content: |
    [(215) 204-8491](tel:2152048491)   
    [Tammey.Abner@temple.edu](mailto:Tammey.Abner@temple.edu)
 ---
+Continue your pursuit of African American Studies with a [master’s degree](#ma-in-african-american-studies) or [PhD](#phd-in-african-american-studies) at Temple University. As a student, you’ll learn to take your Afrocentric perspective of the world to the next level thanks to one of the nation’s leading [African American Studies faculties](#get-involved-in-the-black-studies-academic-community). Your professors will also empower you to contribute to progressive research and make a difference in the community. Learn how you can [fund](#temple-graduate-school-funding) your African American Studies graduate degree and [apply](#admissions-process) to Temple.
+
 ## Earn an MA or PhD in African American Studies
 An academic career in Africology and African American Studies provides graduate and doctoral-level students with an Afrocentric study of the history, culture, art, politics and economics of Africans, African Americans and people of African descent. We are well-known for our innovation, energy and influence in Black studies. Temple’s professors have published more books than any other department of African American Studies faculty in the nation. Our graduates lead more programs in African American studies than any other similar program.
 
