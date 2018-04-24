@@ -37,6 +37,8 @@ sidebar-content: |
    [(215) 204-8491](tel:2152048491)   
    [Tammey.Abner@temple.edu](mailto:Tammey.Abner@temple.edu)
 ---
+Undergraduate students can [major](#bachelor-of-arts-in-africology-and-african-american-studies) or [minor](#minor-in-africology-and-african-american-studies) in Africology and African American Studies to expand their knowledge of the diverse peoples, cultures and art of Africa. Graduates have found careers in the arts, public administration, the social sciences and more. As a student, be sure to take advantage of [academic advising and professional development](#academic-advising-and-professional-development) opportunities to make sure your Africology and African American Studies degree leads you to a rewarding career. Learn more about your [financial aid opportunities](#financial-aid-and-scholarships) and [apply](#undergraduate-admissions-to-temple-university) to Temple University.
+
 ## Bachelor of Arts in Africology and African American Studies
 The Africology and African American Studies program at Temple University provides undergraduates with the opportunity to critically examine and interpret the experiences, traditions and dynamics of people of African descent. The curriculum for the Bachelor of Arts in Africology and African American Studies stresses the skills necessary to think critically, write clearly, argue persuasively and solve problems effectively. Using the African American experience, our discipline provides students with an integrated approach to social, economic, and cultural questions of origin, diversity, racism, racial relations and expressions of art and humanities.
 
