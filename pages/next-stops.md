@@ -8,6 +8,8 @@ keywords: >-
 layout: page
 published: true
 ---
+Getting your Africology and African American Studies degree or minor is just the beginning. You’ll learn the skills and knowledge necessary to launch a career in private industry, government, non-profit work or beyond. Your degree is what you make of it, so [visit us](#visit-us) soon, [make your declaration](#make-your-declaration) and [apply](#apply)!
+
 ## What Can I Do With a Degree in African American Studies?
 ![University of Colorado Ethnic Studies Chair Reiland Rabaka]({{site.baseurl}}/media/resized debois.png){:.img-right}
 Like Temple Owls, graduates of Africology and African American Studies are everywhere. Training in African American Studies provides the foundation and tools needed not only to guide your personal and professional aspirations, but also to ensure success in an increasingly cross-cultural and inter-dependent world. Our graduates work in professional areas that include government, social work, international relations, education, nonprofits, and cultural and artistic institutions. Many of our former doctoral students head African American Studies departments at major universities. Some of our graduate school alumni have earned doctorates in other fields and are now professors.
@@ -36,11 +38,6 @@ Some job titles and careers opportunities include
 The College of Liberal Arts has the largest selection of academic offerings at Temple University. Our students have the flexibility to explore all of their interests, from the humanities and social sciences to business and the media arts. The College of Liberal Arts prepares students to become innovators in all fields, across all industries. We are civic-minded, globally conscious creative thinkers, doers and risk-takers. Home to 28 departments and programs, we offer a solid liberal arts education at a premier urban, research university.
 
 [View Our Complete List of Academic Offerings](http://www.liberalarts.temple.edu)
-
-## Study Abroad Programs
-Temple students can study abroad in almost any country through our programs, exchanges and partnerships with organizations around the world. The benefits of studying abroad are immense; the decision to study abroad will change your life more than any other part of your college experience. This is your opportunity to live, study and intern in another country for college credit. Where will Temple take you?
-
-[Learn More about Studying Abroad](https://studyabroad.temple.edu/)
 
 ## Visit Us!
 Experience Temple University firsthand. Our Main Campus in Philadelphia is an energetic community of students, faculty and local culture and the opportunities don’t stop there. For Temple students, Philadelphia is a place to learn and branch out. Undergraduate Admissions offers tours daily. If you would like to experience the College of Liberal Arts in person, get in touch with us.
