@@ -71,7 +71,3 @@ Temple University’s tuition rates vary by school or college, student level, re
 
 ## Undergraduate Admissions to Temple University
 Ready to apply? [Submit your application online.](http://admissions.temple.edu/apply)
-
-### Curriculum and Academic Requirements
-- [BA in Africology and African American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/africology-african-american-studies/ba-africology-african-american-studies/)
-- [Minor in Africology and African American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/africology-african-american-studies/minor-africology-african-american-studies/)
