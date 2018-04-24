@@ -8,6 +8,8 @@ keywords: >-
 layout: page
 published: true
 ---
+At Temple University, there’s so much more to Africology and African American Studies than the academic work students do in the classroom. As a student, you’ll also have the opportunity to [study abroad](#study-abroad-in-ghana), contribute to a [leading journal](#journal-of-black-studies) and further your knowledge of black studies through an unparalleled [literature collection](#charles-l-blockson-collection). And don’t forget about our many [scholarship opportunities](#department-scholarships)!
+
 ## Study Abroad in Ghana
 If you join our department, taking advantage of our [study abroad in Ghana program](https://studyabroad.temple.edu/) is an incredible way to enhance your Temple education. Investigate the historical, literary, cultural and linguistic aspects of West African civilization at the University of Ghana in Accra. Experience the warm culture and booming music scene of the nation's capital while adding depth to your Africology and African American Studies research.
 
