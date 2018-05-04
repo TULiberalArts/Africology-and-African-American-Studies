@@ -3,8 +3,7 @@ title: Undergraduate
 permalink: /undergraduate/
 description: >-
   Major or minor in African American Studies at Temple University in Philadephia. critically examine and interpret the experiences, traditions and dynamics of people of African descent.
-keywords: >-
-  Major in African American Studies, Black Studies, BA in African American Studies, Minor in African African Studies
+keywords: 'Major in African American Studies, BA, Minor, advising, fly in four, tuition, scholarships'
 layout: page
 published: true
 sidebar: true
