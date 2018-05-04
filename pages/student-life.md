@@ -3,8 +3,7 @@ title: Student Life
 permalink: /student-life/
 description: >-
   Get help with financial aid, study abroad and academic resources at Temple University's Department of African American Studies.
-keywords: >-
-  African American Studies Scholarships, Department of African American Studies, Study Abroad in Ghana, Journal of Black Studies
+keywords: 'study abroad, journal of black studies, blockson collection, awards and scholarships, resources'
 layout: page
 published: true
 ---
