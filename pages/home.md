@@ -6,7 +6,8 @@ description: >-
   American Studies courses emphasize literature, history, art and social
   science.
 keywords: 'African American Studies, academic offerings, BA, MA, Phd, minor'
-layout: home3
+layout: tla_home
+sidebar: false
 published: true
 feature: true
 feature-title: Encouraged to Excel

@@ -4,7 +4,8 @@ permalink: /student-life/
 description: >-
   Get help with financial aid, study abroad and academic resources at Temple University's Department of African American Studies.
 keywords: 'study abroad, journal of black studies, blockson collection, awards and scholarships, resources'
-layout: page
+layout: tla_page
+sidebar: false
 published: true
 ---
 At Temple University, there’s so much more to Africology and African American Studies than the academic work students do in the classroom. As a student, you’ll also have the opportunity to [study abroad](#study-abroad-in-ghana), contribute to a [leading journal](#journal-of-black-studies) and further your knowledge of black studies through an unparalleled [literature collection](#charles-l-blockson-collection). And don’t forget about our many [scholarship opportunities](#department-scholarships)!
