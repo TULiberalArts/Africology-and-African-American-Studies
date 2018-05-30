@@ -33,6 +33,8 @@ Ready to apply? [Submit your application online.](http://admissions.temple.edu/a
 - [MA in Africology and African American Studies](http://bulletin.temple.edu/graduate/scd/cla/africology-african-american-studies-ma/)
 - [PhD in Africology and African American Studies](http://bulletin.temple.edu/graduate/scd/cla/africology-african-american-studies-phd/)
 
+___
+
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-basic.html
     title="Study Abroad in Ghana"
