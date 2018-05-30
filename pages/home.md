@@ -1,14 +1,18 @@
 ---
-title: home
+# global predefined variables
+layout: tla_home
 permalink: /
+published: true
+# meta-data variables
+
+title: home
 description: >-
   We attract and produce world-class scholars in Black Studies. Our African
   American Studies courses emphasize literature, history, art and social
   science.
 keywords: 'African American Studies, academic offerings, BA, MA, Phd, minor'
-layout: tla_home
+# custom variables
 sidebar: false
-published: true
 feature: true
 feature-title: Encouraged to Excel
 feature-image: null

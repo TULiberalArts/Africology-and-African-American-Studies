@@ -1,11 +1,14 @@
 ---
-title: Undergraduate
+# global predefined variables
+layout: tla_page
 permalink: /undergraduate/
+published: true
+# meta-data variables
+title: Undergraduate
 description: >-
   Major or minor in African American Studies at Temple University in Philadephia. critically examine and interpret the experiences, traditions and dynamics of people of African descent.
 keywords: 'Major in African American Studies, BA, Minor, advising, fly in four, tuition, scholarships'
-layout: page
-published: true
+# custom variables
 sidebar: true
 sidebar_content: undergraduate.html
 ---
