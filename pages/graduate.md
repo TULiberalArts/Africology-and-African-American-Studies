@@ -8,7 +8,7 @@ keywords: 'phd in african american studies, ma in african american studies, advi
 layout: tla_page
 published: true
 sidebar: true
-sidebar-content: sidebars/graduate.html
+sidebar-content: /sidebars/graduate.html
 ---
 Continue your pursuit of African American Studies with a [master’s degree](#ma-in-african-american-studies) or [PhD](#phd-in-african-american-studies) at Temple University. As a student, you’ll learn to take your Afrocentric perspective of the world to the next level thanks to one of the nation’s leading [African American Studies faculties](#get-involved-in-the-black-studies-academic-community). Your professors will also empower you to contribute to progressive research and make a difference in the community. Learn how you can [fund](#temple-graduate-school-funding) your African American Studies graduate degree and [apply](#admissions-process) to Temple.
 
