@@ -7,34 +7,7 @@ keywords: 'Major in African American Studies, BA, Minor, advising, fly in four, 
 layout: page
 published: true
 sidebar: true
-sidebar-content: |
-  **Chair:**  
-   Dr. Molefi Kete Asante  
-   615A Gladfelter Hall  
-   [(215) 204-4322](tel:2152044322)  
-   [masante@temple.edu](mailto:masante@temple.edu)  
-   ___
-
-   **Undergraduate Chair:**  
-   Dr. Nilgun Anadolu-Okur  
-   826 Gladfelter Hall  
-   [(215) 204-8513](tel:2152048513)  
-   [anadolu@temple.edu](mailto:anadolu@temple.edu)  
-   ___
-
-   **Administrator:**  
-   Belinda Wilson  
-   821 Ritter Annex   
-   [(215) 204-0472](tel:2152040472)  
-   [bwilson@temple.edu](mailto:bwilson@temple.edu)  
-
-   ___
-
-   **Coordinator:**  
-   Tammey Abner  
-   808 Gladfelter Hall    
-   [(215) 204-8491](tel:2152048491)   
-   [Tammey.Abner@temple.edu](mailto:Tammey.Abner@temple.edu)
+sidebar-content: undergraduate.html
 ---
 Undergraduate students can [major](#bachelor-of-arts-in-africology-and-african-american-studies) or [minor](#minor-in-africology-and-african-american-studies) in Africology and African American Studies to expand their knowledge of the diverse peoples, cultures and art of Africa. Graduates have found careers in the arts, public administration, the social sciences and more. As a student, be sure to take advantage of [academic advising and professional development](#academic-advising-and-professional-development) opportunities to make sure your Africology and African American Studies degree leads you to a rewarding career. Learn more about your [financial aid opportunities](#financial-aid-and-scholarships) and [apply](#undergraduate-admissions-to-temple-university) to Temple University.
 
