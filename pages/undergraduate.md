@@ -9,7 +9,7 @@ description: >-
   Major or minor in African American Studies at Temple University in Philadephia. critically examine and interpret the experiences, traditions and dynamics of people of African descent.
 keywords: 'Major in African American Studies, BA, Minor, advising, fly in four, tuition, scholarships'
 # custom variables
-sidebar: false
+sidebar: true
 sidebar_content: undergraduate.html
 ---
 Undergraduate students can [major](#bachelor-of-arts-in-africology-and-african-american-studies) or [minor](#minor-in-africology-and-african-american-studies) in Africology and African American Studies to expand their knowledge of the diverse peoples, cultures and art of Africa. Graduates have found careers in the arts, public administration, the social sciences and more. As a student, be sure to take advantage of [academic advising and professional development](#academic-advising-and-professional-development) opportunities to make sure your Africology and African American Studies degree leads you to a rewarding career. Learn more about your [financial aid opportunities](#financial-aid-and-scholarships) and [apply](#undergraduate-admissions-to-temple-university) to Temple University.
