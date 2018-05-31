@@ -18,7 +18,7 @@ layout: doc
       <div class="row">
         {% if page.sidebar %}
          <div class="col s12 m8 l9">{{ content }}</div>
-         <div class="col s12 m4 l3"> {% include graduate.html %} </div>
+         <div class="col s12 m4 l3"> {% include {{ page.sidebar_content }} %} </div>
         {% else %}
         <div class="col s12 m8 l9">{{ content }}</div>
       {% endif %}
@@ -27,4 +27,3 @@ layout: doc
   </div>
 </main>
 {% include footer.html %}
-{{ page.sidebar_content }}
