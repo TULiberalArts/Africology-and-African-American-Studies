@@ -8,7 +8,7 @@ title: Next Stops
 description: >-
   Training in African American Studies provides the foundation and tools needed for success in a cross-cultural and globalized economy.
 keywords: 'careers, apply, visit, transfer'
- # custom variables
+# custom variables
 sidebar: false
 ---
 Getting your Africology and African American Studies degree or minor is just the beginning. You’ll learn the skills and knowledge necessary to launch a career in private industry, government, non-profit work or beyond. Your degree is what you make of it, so [visit us](#visit-us) soon, [make your declaration](#make-your-declaration) and [apply](#apply)!
