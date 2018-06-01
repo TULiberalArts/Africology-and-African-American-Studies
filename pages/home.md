@@ -4,7 +4,6 @@ layout: tla_home
 permalink: /
 published: true
 # meta-data variables
-
 title: home
 description: >-
   We attract and produce world-class scholars in Black Studies. Our African
