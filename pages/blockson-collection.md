@@ -6,7 +6,8 @@ published: true
 # meta-data variables
 title: Charles L. Blockson Afro-American Collection
 description: >-
-  The Blockson Collection at Temple University is one of the most prestigious collections relating to African American history in the United States.
+  The Charles L. Blockson Afro-American Collection at Temple University’s library
+  houses over 500,000 items relating to the global black experience. 
 keywords: >-
   Blockson Collection, Charles L. Blockson Afro-American Collection, African American Studies, Temple University library
 # custom variables
