@@ -6,9 +6,9 @@ published: true
 # meta-data variables
 title: home
 description: >-
-  We attract and produce world-class scholars in Black Studies. Our African
-  American Studies courses emphasize literature, history, art and social
-  science.
+  Study in Afrocentric programs with a transcontinental community, and take advantage of unique opportunities, 
+  like a summer study abroad program in Ghana through African American Studies at Temple University’s College 
+  of Liberal Arts. View academic offerings to earn a BA, MA, PhD, or Minor in Africology and African American Studies.
 keywords: 'African American Studies, academic offerings, BA, MA, Phd, minor'
 # custom variables
 sidebar: false
