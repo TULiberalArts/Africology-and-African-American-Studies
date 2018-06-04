@@ -6,8 +6,8 @@ published: true
 # meta-data variables
 title: Graduate
 description: >-
-  Earn your MA or PhD in African American Studies from Temple University. Our
-  faculty edits the prestigious Journal of Black Studies.
+  Earn a MA or PhD among one of the nation’s leading African American Studies faculties. Learn 
+  how you can fund your degree and apply to Temple University’s College of Liberal Arts.
 keywords: 'phd in african american studies, ma in african american studies, advising, admissions, graduate school funding'
 # custom variables
 sidebar: true
