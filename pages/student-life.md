@@ -6,7 +6,8 @@ published: true
 # meta-data variables
 title: Student Life
 description: >-
-  Get help with financial aid, study abroad and academic resources at Temple University's Department of African American Studies.
+  Study abroad, contribute to a leading journal, further your knowledge through a literature collection, and take advantage of many
+  scholarship opportunities in Temple University’s department of Africology and African American Studies in the College of Liberal Arts.
 keywords: 'study abroad, journal of black studies, blockson collection, awards and scholarships, resources'
 # custom variables
 sidebar: false
