@@ -6,7 +6,8 @@ published: true
  # meta-data variables
 title: Next Stops
 description: >-
-  Training in African American Studies provides the foundation and tools needed for success in a cross-cultural and globalized economy.
+  Learn the possibilities of your future with a degree in African American Studies at Temple University’s
+  College of Liberal Arts. Visit us, make your declaration, view transfer options, and apply!
 keywords: 'careers, apply, visit, transfer'
 # custom variables
 sidebar: false
