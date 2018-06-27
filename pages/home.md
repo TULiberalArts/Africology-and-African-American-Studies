@@ -14,7 +14,7 @@ keywords: 'African American Studies, academic offerings, BA, MA, Phd, minor'
 sidebar: false
 feature: true
 feature-title: Encouraged to Excel
-feature-image: null
+feature-image: media/AAAS grad-ceremony-2.jpg
 feature-body: >-
   I was able to reach out to any of the professors and  students in my
   department for guidance and help. Each professor encouraged me to dare to be
