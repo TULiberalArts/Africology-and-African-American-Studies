@@ -7,7 +7,7 @@ Africology and African American Studies is statically generated with [Jekyll](ht
 | Links |  |
 | --- | --- |
 | Development | https://develop.cla.temple.edu/africology-and-african-american-studies/ |
-| Production |  | https://www.cla.temple.edu/africology-and-african-american-studies/ |
+| Production |  https://www.cla.temple.edu/africology-and-african-american-studies/ |
 
 ## Content Structure
 
