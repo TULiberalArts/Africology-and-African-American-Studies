@@ -6,12 +6,11 @@ published: true
 # meta-data variables
 title: home
 description: >-
-  Study in Afrocentric programs with a transcontinental community, and take advantage of unique opportunities, 
-  like a summer study abroad program in Ghana through African American Studies at Temple University’s College 
+  Study in Afrocentric programs with a transcontinental community, and take advantage of unique opportunities,
+  like a summer study abroad program in Ghana through African American Studies at Temple University’s College
   of Liberal Arts. View academic offerings to earn a BA, MA, PhD, or Minor in Africology and African American Studies.
 keywords: 'African American Studies, academic offerings, BA, MA, Phd, minor'
 # custom variables
-sidebar: false
 feature: true
 feature-title: Encouraged to Excel
 feature-image: media/AAAS grad-ceremony-2.jpg
@@ -20,6 +19,8 @@ feature-body: >-
   department for guidance and help. Each professor encouraged me to dare to be
   different and encouraged me to excel regardless of circumstances. - NeShae
   Williams '14
+promotion-table: true
+sidebar: false
 ---
 ## African American Studies at Temple
 The Department of Africology and African American Studies attracts and produces world-class scholars in our discipline and we have more African American students than any other university in the Northeast. We constantly seek to expand links with the local, national and international African community; our focus is trans-generational, transcontinental and interdisiplinary. Our faculty edits the _Journal of Black Studies_, the top peer-reviewed publication in our academic discipline. We always encourage our students to take advantage of opportunities to engage in service learning, internships and study abroad — including a [summer program in Ghana](https://studyabroad.temple.edu/). Our courses and programs are Afrocentric, meaning that we explore academic topics from the standpoint of African agency.
