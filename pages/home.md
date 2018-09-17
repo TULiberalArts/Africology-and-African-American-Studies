@@ -12,16 +12,15 @@ description: >-
 keywords: 'African American Studies, academic offerings, BA, MA, Phd, minor'
 # custom variables
 feature: true
-feature-title: Encouraged to Excel
 feature-image: media/AAAS grad-ceremony-2.jpg
-feature-body: >-
-  I was able to reach out to any of the professors and  students in my
-  department for guidance and help. Each professor encouraged me to dare to be
-  different and encouraged me to excel regardless of circumstances. - NeShae
-  Williams '14
 promotion-table: true
 sidebar: false
 ---
+## Encouraged to Excel
+I was able to reach out to any of the professors and  students in my
+department for guidance and help. Each professor encouraged me to dare to be
+different and encouraged me to excel regardless of circumstances. - NeShae
+Williams '14
 ## African American Studies at Temple
 The Department of Africology and African American Studies attracts and produces world-class scholars in our discipline and we have more African American students than any other university in the Northeast. We constantly seek to expand links with the local, national and international African community; our focus is trans-generational, transcontinental and interdisiplinary. Our faculty edits the _Journal of Black Studies_, the top peer-reviewed publication in our academic discipline. We always encourage our students to take advantage of opportunities to engage in service learning, internships and study abroad — including a [summer program in Ghana](https://studyabroad.temple.edu/). Our courses and programs are Afrocentric, meaning that we explore academic topics from the standpoint of African agency.
 
