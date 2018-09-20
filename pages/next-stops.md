@@ -15,7 +15,7 @@ sidebar: false
 Getting your Africology and African American Studies degree or minor is just the beginning. You’ll learn the skills and knowledge necessary to launch a career in private industry, government, non-profit work or beyond. Your degree is what you make of it, so [visit us](#visit-us) soon, [make your declaration](#make-your-declaration) and [apply](#apply)!
 
 ## What Can I Do With a Degree in African American Studies?
-![University of Colorado Ethnic Studies Chair Reiland Rabaka]({{site.baseurl}}/media/resized debois.png){:.img-right}
+![University of Colorado Ethnic Studies Chair Reiland Rabaka]({{site.baseurl}}/media/resized debois.png){:.responsive-img .img-right}
 Like Temple Owls, graduates of Africology and African American Studies are everywhere. Training in African American Studies provides the foundation and tools needed not only to guide your personal and professional aspirations, but also to ensure success in an increasingly cross-cultural and inter-dependent world. Our graduates work in professional areas that include government, social work, international relations, education, nonprofits, and cultural and artistic institutions. Many of our former doctoral students head African American Studies departments at major universities. Some of our graduate school alumni have earned doctorates in other fields and are now professors.
 
 Africology and African American Studies students develop the following skills that are applicable to many careers:
