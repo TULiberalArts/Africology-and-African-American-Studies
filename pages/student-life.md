@@ -10,7 +10,6 @@ description: >-
   scholarship opportunities in Temple University’s department of Africology and African American Studies in the College of Liberal Arts.
 keywords: 'study abroad, journal of black studies, blockson collection, awards and scholarships, resources'
 # custom variables
-sidebar: false
 ---
 At Temple University, there’s so much more to Africology and African American Studies than the academic work students do in the classroom. As a student, you’ll also have the opportunity to [study abroad](#study-abroad-in-ghana), contribute to a [leading journal](#journal-of-black-studies) and further your knowledge of black studies through an unparalleled [literature collection](#charles-l-blockson-collection). And don’t forget about our many [scholarship opportunities](#department-scholarships)!
 

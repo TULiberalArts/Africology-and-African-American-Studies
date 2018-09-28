@@ -7,11 +7,10 @@ published: true
 title: Charles L. Blockson Afro-American Collection
 description: >-
   The Charles L. Blockson Afro-American Collection at Temple University’s library
-  houses over 500,000 items relating to the global black experience. 
+  houses over 500,000 items relating to the global black experience.
 keywords: >-
   Blockson Collection, Charles L. Blockson Afro-American Collection, African American Studies, Temple University library
 # custom variables
-sidebar: false
 ---
 
 ### Special Collections - African American Studies at Temple University

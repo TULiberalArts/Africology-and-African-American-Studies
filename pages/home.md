@@ -14,7 +14,6 @@ keywords: 'African American Studies, academic offerings, BA, MA, Phd, minor'
 feature: true
 feature-image: media/AAAS grad-ceremony-2.jpg
 promotion-table: true
-sidebar: false
 ---
 ## Encouraged to Excel
 I was able to reach out to any of the professors and  students in my

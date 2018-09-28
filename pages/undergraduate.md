@@ -6,12 +6,11 @@ published: true
 # meta-data variables
 title: Undergraduate
 description: >-
-  Major or minor in Africology and African American Studies. Learn about academic advising and professional 
+  Major or minor in Africology and African American Studies. Learn about academic advising and professional
   development, financial aid,tuition & scholarships, and applying to Temple University’s College of Liberal Arts.
 keywords: 'Major in African American Studies, BA, Minor, advising, fly in four, tuition, scholarships'
 # custom variables
-sidebar: true
-sidebar_content: sidebars/undergraduate.html
+sidebar: sidebars/undergraduate.html
 ---
 Undergraduate students can [major](#bachelor-of-arts-in-africology-and-african-american-studies) or [minor](#minor-in-africology-and-african-american-studies) in Africology and African American Studies to expand their knowledge of the diverse peoples, cultures and art of Africa. Graduates have found careers in the arts, public administration, the social sciences and more. As a student, be sure to take advantage of [academic advising and professional development](#academic-advising-and-professional-development) opportunities to make sure your Africology and African American Studies degree leads you to a rewarding career. Learn more about your [financial aid opportunities](#financial-aid-and-scholarships) and [apply](#undergraduate-admissions-to-temple-university) to Temple University.
 
