@@ -1,12 +1,12 @@
 ---
 # Program/Department Title
 title: Africology and African American Studies
-# url spits sitemap
-url: https://www.cla.temple.edu/africology-and-african-american-studies
 # Subdirectory (with / at only at beginning)
 baseurl: /africology-and-african-american-studies
 # Production domain (without / at the end)
 production: https://www.cla.temple.edu
+# url spits sitemap
+url: https://www.cla.temple.edu/africology-and-african-american-studies
 
 # Development Config
 # If you do not have access to 'tutheme', use 'minima' instead.
@@ -89,7 +89,7 @@ collections:
   pages:
     title: Pages
     output: true
-    layout: page
+    layout: tla_page
 permalink: /:title
 
 # Prose

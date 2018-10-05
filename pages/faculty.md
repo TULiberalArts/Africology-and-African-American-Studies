@@ -10,5 +10,6 @@ description: >-
   Temple University’s College of Liberal Arts, who edit the prestigious Journal of Black Studies.
 keywords: 'Department of Africology and African American Studies, faculty, Journal of Black Studies'
 # custom variables
+faculty: profiles/faculty.html
 ---
 African American studies faculty at Temple University edit the prestigious *Journal of Black Studies*. We are known for our innovation, energy and influence in the discipline.
