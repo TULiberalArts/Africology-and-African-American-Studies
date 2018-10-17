@@ -14,7 +14,7 @@ keywords: >-
 ---
 
 ### Special Collections - African American Studies at Temple University
-> _My main goal in life is to build a good library of Black history - knowledge is a form of Black power and this is my part in it_ - Charles L. Blockson
+> _"My main goal in life is to build a good library of Black history - knowledge is a form of Black power and this is my part in it"_ - Charles L. Blockson
 
 ![Charles Blockson is a historian, curator and author specializing in the Underground Railroad.]({{site.baseurl}}/media/charles-blockson.jpg){:.responsive-img .img-right}
 
