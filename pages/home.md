@@ -36,7 +36,7 @@ ___
   <div class="col m12 l4">{% include cards/card2-basic.html
     title="Study Abroad in Ghana"
     content="Based at the University of Ghana in Accra, our study abroad in Ghana is an incredible way to enhance your Africology and African American Studies program."
-    button-link="https://studyabroad.temple.edu/"
+    button-link="https://studyabroad.temple.edu/sites/temple-summer-in-ghana"
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
