@@ -28,6 +28,8 @@ The department of Africology and African American Studies is accredited by the N
 ## Charles L. Blockson Collection
 The Charles L. Blockson Afro-American Collection at Temple University houses over 500,000 items on the global black experience. Dating from 1581 to the present, the extensive catalog is the first of its kind published by a major university. Mr. Blockson chose Temple University for his collection because of our diverse student body and our location in the heart of the African American community in North Philadelphia.
 
+___
+
 ## Department Scholarships
 A limited number of [assistantships](http://www.temple.edu/grad/finances/) are available for graduate students with outstanding academic records. Assistantships involve teaching; teaching assistants receive a stipend and full tuition remission up to 9 credits. African American Studies students (undergraduate and graduate) with outstanding academic records are eligible for other awards and scholarships.
 
@@ -37,6 +39,8 @@ A limited number of [assistantships](http://www.temple.edu/grad/finances/) are a
 - **Molefi Kete Asante Award:** The Molefi Kete Asante Award, named after the department chair, recognizes outstanding intellectual originality and boldness. The prize is given to a second-or-third-year graduate student who best represents Afrocentric scholarship.
 - **Octavio Cato Award:** The Cato Award is named for the famed African American leader in Philadelphia who best articulated the goals and objectives of the African American community in the 19th century. Our department strives to serve the interests of the surrounding community, and so we recognize the student who demonstrates a profound dedication to political, social and economic innovation.
 - **Stephen Couvillion Scholarship:** Named in the honor of a former graduate student this award is made to the master’s student who shows unusual initiative and direction in research and scholarship. Given to the student that has best satisfied the demands of the award, the Couvillion Award represents one of the highest awards given in the department.
+
+___
 
 ### Undergraduate Resources
 - [The Center for Academic Advising and Professional Development](https://liberalarts.temple.edu/advising)
