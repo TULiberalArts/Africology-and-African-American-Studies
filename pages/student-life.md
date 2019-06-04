@@ -43,6 +43,7 @@ A limited number of [assistantships](http://www.temple.edu/grad/finances/) are a
 ___
 
 ### Undergraduate Resources
+- [Independent Study Form](https://liberalarts.temple.edu/sites/liberalarts/files/AAAS%20Revised%20Independent%20study%20form%20May_June%202019.pdf)
 - [The Center for Academic Advising and Professional Development](https://liberalarts.temple.edu/advising)
 - [Changing your major](http://www.temple.edu/studentaffairs/orientation/freshman-orientation/changing-your-major.asp)
 - [Graduation Application process](http://www.temple.edu/registrar/students/graduation)
