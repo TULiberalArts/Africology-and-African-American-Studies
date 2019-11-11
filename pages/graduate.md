@@ -24,15 +24,15 @@ Our faculty edits the top journal in our discipline, the _Journal of Black Studi
 
 Learn More About our [Academic Resources](https://cla.temple.edu/africology-and-african-american-studies/resources/)
 
-## PhD in African American Studies
-Temple was the first university to offer a PhD program in African American Studies. Our program reflects a deep commitment to the Afrocentric, or self-directed, exploration of academic experiences. It is the goal of the department that graduates of our PhD program are prepared to engage in a diverse range of intellectual issues that affect the lives of Africans on the continent and in the diaspora. Our students are prepared for university teaching and scholarly research; our graduates have excellent employment track records in major universities nationwide.
-
-Learn More about the [PhD in African American Studies Program](http://bulletin.temple.edu/graduate/scd/cla/africology-african-american-studies-phd/)
-
 ## MA in African American Studies
 The MA in African American Studies is designed to teach students about fundamental theoretical and practical issues confronting African people trans-continentally and trans-generationally. The MA program seeks to answer the personal and intellectual aspirations of students that are not satisfied by a BA degree in African American Studies. An MA in African American Studies often serves as a basis for a PhD in the discipline or in an affiliated field.
 
 Learn More about the [MA in African American Studies Program](http://bulletin.temple.edu/graduate/scd/cla/africology-african-american-studies-ma/)
+
+## PhD in African American Studies
+Temple was the first university to offer a PhD program in African American Studies. Our program reflects a deep commitment to the Afrocentric, or self-directed, exploration of academic experiences. It is the goal of the department that graduates of our PhD program are prepared to engage in a diverse range of intellectual issues that affect the lives of Africans on the continent and in the diaspora. Our students are prepared for university teaching and scholarly research; our graduates have excellent employment track records in major universities nationwide.
+
+Learn More about the [PhD in African American Studies Program](http://bulletin.temple.edu/graduate/scd/cla/africology-african-american-studies-phd/)
 
 ## Academic Advising
 As a student working toward your MA or PhD, you'll be guided toward a concentration based on your interests and the available resources at the department.
