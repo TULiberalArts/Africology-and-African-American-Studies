@@ -19,11 +19,6 @@ An academic career in Africology and African American Studies provides graduate 
 
 Please visit the [Africology and African American Studies Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/africology-african-american-studies-ma/#admissiontext) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
 
-## Get Involved in the Black Studies Academic Community
-Our faculty edits the top journal in our discipline, the _Journal of Black Studies_. We also participate in all the significant associations in our discipline, including the National Council for Black Studies and Afrocentricity International. We encourage our students to collaborate with faculty in research, conferences, field trips and joint writing projects. If you join our program, you'll have the opportunity to contribute to the _Journal of Black Studies_ and participate in African American Studies conferences with us.
-
-Learn More About our [Academic Resources](https://cla.temple.edu/africology-and-african-american-studies/resources/)
-
 ## MA in African American Studies
 The MA in African American Studies is designed to teach students about fundamental theoretical and practical issues confronting African people trans-continentally and trans-generationally. The MA program seeks to answer the personal and intellectual aspirations of students that are not satisfied by a BA degree in African American Studies. An MA in African American Studies often serves as a basis for a PhD in the discipline or in an affiliated field.
 
@@ -33,6 +28,11 @@ Learn More about the [MA in African American Studies Program](http://bulletin.te
 Temple was the first university to offer a PhD program in African American Studies. Our program reflects a deep commitment to the Afrocentric, or self-directed, exploration of academic experiences. It is the goal of the department that graduates of our PhD program are prepared to engage in a diverse range of intellectual issues that affect the lives of Africans on the continent and in the diaspora. Our students are prepared for university teaching and scholarly research; our graduates have excellent employment track records in major universities nationwide.
 
 Learn More about the [PhD in African American Studies Program](http://bulletin.temple.edu/graduate/scd/cla/africology-african-american-studies-phd/)
+
+## Get Involved in the Black Studies Academic Community
+Our faculty edits the top journal in our discipline, the _Journal of Black Studies_. We also participate in all the significant associations in our discipline, including the National Council for Black Studies and Afrocentricity International. We encourage our students to collaborate with faculty in research, conferences, field trips and joint writing projects. If you join our program, you'll have the opportunity to contribute to the _Journal of Black Studies_ and participate in African American Studies conferences with us.
+
+Learn More About our [Academic Resources](https://cla.temple.edu/africology-and-african-american-studies/resources/)
 
 ## Academic Advising
 As a student working toward your MA or PhD, you'll be guided toward a concentration based on your interests and the available resources at the department.
