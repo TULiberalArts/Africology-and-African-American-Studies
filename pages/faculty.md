@@ -13,3 +13,5 @@ keywords: 'Department of Africology and African American Studies, faculty, Journ
 faculty: profiles/faculty.html
 ---
 African American studies faculty at Temple University edit the prestigious *Journal of Black Studies*. We are known for our innovation, energy and influence in the discipline.
+
+___
