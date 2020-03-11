@@ -33,21 +33,21 @@ Become a part of an energetic group of scholars who seek to continue what began 
 ___
 
 <div class="row row-wide">
-  <div class="col m12 l4">{% include cards/card2-basic.html
+  <div class="col m12 l4">{% include cards/card2-fixed.html
     title="Study Abroad in Ghana"
     content="Based at the University of Ghana in Accra, our study abroad in Ghana is an incredible way to enhance your Africology and African American Studies program."
     button-link="https://studyabroad.temple.edu/sites/temple-summer-in-ghana"
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
-    <div class="col m12 l4">{% include cards/card2-basic.html
+    <div class="col m12 l4">{% include cards/card2-fixed.html
       title="Learn from Top Faculty"
       content="We are known for our innovation, energy and influence in Black Studies. We attract and produce world-class scholars in African American Studies."
       button-link="/africology-and-african-american-studies/faculty/"
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
-      <div class="col m12 l4">{% include cards/card2-basic.html
+      <div class="col m12 l4">{% include cards/card2-fixed.html
         title="The Blockson Collection"
         content="The Charles L. Blockson Afro-American Collection at Temple University houses over 500,000 items on the global Black experience dating from 1581 to the present."
         button-link="/africology-and-african-american-studies/blockson-collection/"
