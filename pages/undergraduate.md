@@ -22,7 +22,7 @@ Learn More about the [BA in Africology and African American Studies](https://www
 ## Minor in Africology and African American Studies
 No matter what you plan on doing with your college education, an Africology and African American studies minor adds interdisciplinary depth to your main course of study. The 18-credit minor requires three introductory courses and three electives at or above the 2000 level.
 
-[Learn More about Minoring in Africology and Africology and African American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/africology-african-american-studies/minor-africology-african-american-studies/)
+Learn More about the [Minor in Africology and Africology and African American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/africology-african-american-studies/minor-africology-african-american-studies/)
 
 ## Academic Advising and Professional Development
 Take full advantage of the [College of Liberal Arts](https://liberalarts.temple.edu/)’ flexible curriculum with the help of our award-winning advisors. We'll help you select a major or minor, and graduate on time. Beyond academics, our advisors ensure that you have a rich experience at Temple by complementing your academic work with study abroad programs, internships and other experiential learning opportunities.
