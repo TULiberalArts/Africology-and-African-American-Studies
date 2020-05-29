@@ -58,6 +58,4 @@ Temple has several financial aid packages available to eligible candidates, incl
 ## Admissions Process
 Admission requirements to the Africology and African American studies master’s degree and PhD programs follow the general requirements established by Temple University. We do not have rolling admissions, the **application deadline for the MA and PhD program is January 15** for fall semester. 
 
-For additional admissions details, please visit:
-- Africology and African American Studies [MA Admissions page](https://www.temple.edu/academics/degree-programs/africology-and-african-american-studies-phd-la-aaas-phd/cla-africology-and-african-american-studies-phd-admissions?p=1625)
-- Africology and African American Studies [PhD Admissions page](https://www.temple.edu/academics/degree-programs/africology-and-african-american-studies-phd-la-aaas-phd/cla-africology-and-african-american-studies-phd-admissions?p=2911)  
+Please visit the Africology and African American Studies [MA Admissions page](https://www.temple.edu/academics/degree-programs/africology-and-african-american-studies-phd-la-aaas-phd/cla-africology-and-african-american-studies-phd-admissions?p=1625) or the Africology and African American Studies [PhD Admissions page](https://www.temple.edu/academics/degree-programs/africology-and-african-american-studies-phd-la-aaas-phd/cla-africology-and-african-american-studies-phd-admissions?p=2911) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
