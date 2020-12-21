@@ -52,12 +52,12 @@ faculty-feed: https://liberalarts.temple.edu/profiles/africology-and-african-ame
 # Put in only the username unless otherwise noted
 # If social media does not apply to your department, keep it blank or use the default values.
 social:
-  # Facebook - http://www.facebook.com/AFAMatTU
+  # Facebook - http://www.facebook.com/USERNAME
   # if your page does not have a custom URL, create one!
-  facebook: TempleLiberalArts
-  # Twitter - https://twitter.com/TULiberalArts/
-  twitter: TULiberalArts
-  # Instagram - https://www.instagram.com/tuliberalarts/
+  facebook: AFAMatTU
+  # Twitter - https://twitter.com/USERNAME
+  twitter: 
+  # Instagram - https://www.instagram.com/USERNAME
   instagram: TULiberalArts
   # Snapchat - USERNAME
   snapchat:
